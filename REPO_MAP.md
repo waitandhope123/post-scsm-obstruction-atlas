@@ -92,7 +92,7 @@ If locality is not invariant, boundary-based phenomenology is meaningless.
 
 ---
 
-## Optional Repo 4 — Relational Observables & Gauge Invariance
+## Repo 4 — Relational Observables & Gauge Invariance
 
 **Working Title**  
 *Relational Observables and the Limits of Gauge-Invariant Information*
@@ -110,7 +110,7 @@ Defines what information could even be observable in any future theory.
 
 ---
 
-## Optional Repo 5 — No-Go Theorems & Obstruction Atlas
+## Repo 5 — No-Go Theorems & Obstruction Atlas
 
 **Working Title**  
 *Obstructions to Protected Information in Fundamental Physics*
@@ -128,7 +128,7 @@ Prevents future theories from unknowingly rebuilding forbidden structures.
 
 ---
 
-## Optional Repo 6 — Semiclassical vs Fundamental Regime
+## Repo 6 — Semiclassical vs Fundamental Regime
 
 **Working Title**  
 *Which Structures Survive Beyond the Semiclassical Limit?*
