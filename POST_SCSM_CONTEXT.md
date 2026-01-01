@@ -50,4 +50,4 @@ Independent phenomenology operating strictly in the semiclassical regime.
 **Updated January 2026**  
 Reflects atlas completion and final RCTF positioning.
 
-**→ Atlas navigation:** [`docs/SUMMARY.md`](../docs/SUMMARY.md)
+**→ Atlas navigation:** [docs/SUMMARY.md](docs/SUMMARY.md)
