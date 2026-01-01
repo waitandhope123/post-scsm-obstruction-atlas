@@ -83,21 +83,5 @@ docs/
 
 ---
 
-## 🛠 Commands
-
-```powershell
-# From the docs/ folder
-New-Item SUMMARY.md
-# Paste content above
-
-git add docs/SUMMARY.md
-git commit -m "Add docs/SUMMARY.md - Atlas navigation hub"
-git push
-```
-
-**Result**:  
-`github.com/yourorg/docs` becomes a perfect landing page.  
-Readers understand the verdict immediately and dive only if curious.
-
 **Docs complete: December 31, 2025.**  
 RCTF positioned as the sole phenomenological survivor.
