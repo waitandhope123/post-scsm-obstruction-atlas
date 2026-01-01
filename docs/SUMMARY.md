@@ -70,16 +70,6 @@ docs/
 ├── repo4-relational.md
 ├── repo5-global-atlas.md
 └── repo6-semiclassical.md
-```
-
----
-
-## ⭐ Why `SUMMARY.md` Wins
-
-- **GitHub sidebar magic** → auto tree navigation  
-- **One-page entry** → full atlas grasped in ~2 minutes  
-- **Logical flow** → Global → Regime → Details  
-- **Standard practice** → Matches mature GitHub docs / Python projects  
 
 ---
 
