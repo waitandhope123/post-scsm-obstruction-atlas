@@ -1,83 +1,53 @@
-# Global Rules
-
-**These rules apply to ALL repositories in this organization.  
-Violations invalidate contributions.**
+# Post-SCSM Context
 
 ---
 
-## 🎯 Core Scope
+**SCSM v11.5.3 — CLOSED**  
+Phase I / Phase Ia + 16 declarative toys demonstrated that required structural prerequisites could not be satisfied.
 
-✅ **Constraint-mapping ONLY**  
-120+ declarative toys mapping what is *formulable* in strict physics.
-
-✅ **Negative results = FIRST-CLASS outcomes**  
-Six HARD NO-GO theorems are the primary deliverable.
-
-✅ **Historical arc acknowledged**  
-SCSM → Obstruction Atlas → RCTF phenomenological survivor.
-
-❌ **NO** new theories, mechanisms, or fundamental ontologies  
-❌ **NO** empirical validation or experimental claims  
-❌ **NO** phenomenological interpretation beyond RCTF scoping  
-❌ **NO** revival or extension of SCSM (historical motivation ONLY; program closed)
+**6-Repository Obstruction Atlas — COMPLETE (December 31, 2025)**  
+These same prerequisites are proven **fundamentally unformulable** in background-free, gauge-invariant physics.
 
 ---
 
-## 📝 Language Requirements
+## 📊 Historical Arc → Definitive Closure
 
-### MUST USE
-
-- “not formulable”
-- “HARD NO-GO”
-- “effective-only”
-- “conditional permission”
-- “requires scaffolding”
-- Explicit **T20 verdicts** from the relevant repository
-
-### NEVER USE
-
-- “proves X exists”
-- “theory of Y”
-- “explains Z”
-- “fundamental mechanism”
-- Unqualified “consciousness substrate”
-
-Precision language is mandatory.  
-Ambiguity is treated as a scope violation.
+```
+SCSM v6 Ontology → v11.2 Physics → TQEC Mathematics → 16 Toys
+↓
+120+ Atlas Toys → 6 HARD NO-GO Theorems → FUNDAMENTAL IMPOSSIBLE
+↓
+RCTF v1.2 → Semiclassical Phenomenology (≈10 pN test)
+```
 
 ---
 
-## 🔬 Atlas Positioning
+## 🔒 Repository Independence (Strictly Enforced)
 
-**ATLAS VERDICT**  
-Fundamental consciousness substrates are **IMPOSSIBLE**.
+**SCSM status**: *Historical motivation ONLY*
 
-**SOLE SURVIVOR**  
-RCTF v1.2 — semiclassical phenomenology only  
-Single quantitative prediction: **ΔF ≈ 10 pN**
+- NOT revived  
+- NOT a dependency  
+- NOT a reference model  
+- NOT an assumption  
 
-**STRUCTURE**  
-6 repositories → unified obstruction proof → 1 testable prediction
+**Atlas repositories**  
+Pure constraint-mapping. Verdicts stand **independently of SCSM**.
 
----
-
-## 📋 Repository Compliance
-
-- **Every repository** MUST link `docs/SUMMARY.md`
-- **Every document** MUST cite its relevant T20 conclusion
-- **No repository** may propose alternatives to atlas verdicts
-- **RCTF repository** maintains a strictly separate phenomenological scope
-
-Noncompliance = invalid contribution.
+**RCTF repository**  
+Independent phenomenology operating strictly in the semiclassical regime.
 
 ---
 
-## ✅ Program Status
+## 🎯 Atlas Deliverables
 
-**Obstruction Atlas**: CLOSED — December 31, 2025 (6/6 repositories complete)  
-**RCTF**: ACTIVE — experimental outreach (cryo-AFM, ~10 pN regime)
+- **Six NO-GO theorems** → arXiv (quant-ph / gr-qc)  
+- **Proof**: No fundamental substrate, identity, or persistence  
+- **Sole survivor**: RCTF relational tensor (effective phenomenology only)
 
 ---
 
 **Updated January 2026**  
-Atlas completed. RCTF positioned. Scope locked.
+Reflects atlas completion and final RCTF positioning.
+
+**→ Atlas navigation:** [`docs/SUMMARY.md`](../docs/SUMMARY.md)
