@@ -1,28 +1,59 @@
 # Program Scope
 
-## Goal
+---
 
-Map the feasibility space for **protected information** in background-free physics.
+## 🎯 Goal — ACHIEVED
 
-These projects determine whether physics permits any theory in the spirit of SCSM
-to exist at all, independent of specific models or phenomenology.
+**6-Repository Obstruction Atlas**  
+Proven: **fundamental consciousness substrates are impossible** in background-free physics.  
+**COMPLETE — December 31, 2025**
 
-## Guiding Question
+**→ Verdict overview:** [`REPOSITORY_MAP.md`](../REPOSITORY_MAP.md)  
+**→ Full proof:** [`docs/SUMMARY.md`](../docs/SUMMARY.md)
 
-Does fundamental physics allow for invariantly protected, persistent information
+---
+
+## 📊 Historical Guiding Question → Answer
+
+**QUESTION**  
+Does fundamental physics permit invariantly protected, persistent information  
 without fixed spacetime structure?
 
-## What Counts as Success
+**ANSWER**  
+**NO.**  
+HARD NO-GO results across **six independent domains**, via **120+ declarative toys**.
 
-- A clean no-go result  
-- A sharply constrained “only possible if X” result  
-- A demonstration that a concept is undefined or ill-posed at the fundamental level  
+---
 
-## What This Program Is Not
+## ✅ What Success Looks Like (Delivered)
 
-- Not a theory-building effort  
-- Not phenomenology  
-- Not experimental design  
-- Not ontology or metaphysics  
+✓ Six clean **NO-GO theorems**  
+✓ Explicit **“effective-only” conditional permissions**  
+✓ Six foundational concepts proven **ill-posed at the fundamental level**  
+✓ **RCTF v1.2** positioned as the **sole phenomenological survivor**
 
-These are feasibility and obstruction analyses only.
+---
+
+## ❌ What This Program Is NOT (Strictly Enforced)
+
+❌ Theory-building  
+❌ General phenomenology (except RCTF scoping)  
+❌ Experimental design (except the RCTF prediction)  
+❌ Ontology or metaphysics  
+❌ Fundamental claims of existence or mechanism  
+
+**Feasibility analysis ONLY.**
+
+---
+
+## 📈 Status & Next
+
+✅ **PROGRAM SCOPE** — CLOSED (Atlas complete)  
+✅ **SCSM / TQEC** — CLOSED (historical motivation only)  
+✅ **OBSTRUCTION ATLAS** — CLOSED (6/6 repositories complete)  
+🔄 **RCTF v1.2** — ACTIVE (≈10 pN experimental test)
+
+---
+
+**Updated January 2026**  
+Reflects atlas completion and final RCTF positioning.
