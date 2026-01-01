@@ -8,8 +8,8 @@
 Proven: **fundamental consciousness substrates are impossible** in background-free physics.  
 **COMPLETE — December 31, 2025**
 
-**→ Verdict overview:** [`REPOSITORY_MAP.md`](../REPOSITORY_MAP.md)  
-**→ Full proof:** [`docs/SUMMARY.md`](../docs/SUMMARY.md)
+**→ Verdict overview:** [`REPOSITORY_MAP.md`](REPOSITORY_MAP.md)  
+**→ Full proof:** [`docs/SUMMARY.md`](docs/SUMMARY.md)
 
 ---
 
