@@ -10,12 +10,12 @@ Fundamental consciousness substrates are impossible.
 
 | # | Repo | Target | Verdict | Key Obstruction |
 |---|------|--------|---------|-----------------|
-| 1 | [QGEC](repo1-qgec.md) | Error Correction | HARD NO-GO | Subsystems / anchors |
-| 2 | [Persistence](repo2-persistence.md) | Memory / Information | HARD NO-GO | Distinguishability |
-| 3 | [Locality](repo3-locality.md) | Regions / Boundaries | HARD NO-GO | Background structure |
-| 4 | [Relational](repo4-relational.md) | ψ-Relations | HARD NO-GO | Reference anchors |
-| 5 | [Global Atlas](repo5-global-atlas.md) | Unified No-Gos | CORE OBSTRUCTIONS | Scaffolding required |
-| 6 | [Semiclassical](repo6-semiclassical.md) | Records / Narratives | EFFECTIVE ONLY | Semiclassical artifact |
+| 1 | [QGEC](repo_01_qgec/repo1-qgec.md) | Error Correction | HARD NO-GO | Subsystems / anchors |
+| 2 | [Persistence](repo_02_persistence/repo2-persistence.md) | Memory / Information | HARD NO-GO | Distinguishability |
+| 3 | [Locality](repo_03_locality/repo3-locality.md) | Regions / Boundaries | HARD NO-GO | Background structure |
+| 4 | [Relational](repo_04_relational/repo4-relational.md) | ψ-Relations | HARD NO-GO | Reference anchors |
+| 5 | [Global Atlas](repo_05_obstructions/repo5-global-atlas.md) | Unified No-Gos | CORE OBSTRUCTIONS | Scaffolding required |
+| 6 | [Semiclassical](repo_06_semiclassical_vs_fundamental/repo6-semiclassical.md) | Records / Narratives | EFFECTIVE ONLY | Semiclassical artifact |
 
 ---
 
